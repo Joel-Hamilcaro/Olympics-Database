@@ -3,7 +3,9 @@
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>   
 
 *Projet réalisé en binôme dans le cadre du cours "Bases de données" (projet "Rio ne répond plus")*   
-**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**       
+**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**   
+
+## Introduction 
 
 Le but de ce projet était de modéliser et d'implémenter une base de donnée SQL utilisable pour l'organisation d'événements sportifs (gestion du calendrier des évènements, des résultats, des différents sports, des équipes/athlètes, des médailles, ...). Pour peupler notre base de données, nous avons utilisé les données des jeux olympiques d'été de Rio 2016.
 
