@@ -1,0 +1,186 @@
+1,23,50m nage libre(H),true,true
+2,23,50m nage libre(F),false,true
+3,23,100m nage libre(H),true,true
+4,23,100m nage libre(F),false,true
+5,23,200m nage libre(H),true,true
+6,23,200m nage libre(F),false,true
+7,23,400m nage libre(H),true,true
+8,23,400m nage libre(F),false,true
+9,23,800m nage libre(F),false,true
+10,23,1500m nage libre(H),true,true
+11,23,100m dos(H),true,true
+12,23,100m dos(F),false,true
+13,23,200m dos(H),true,true
+14,23,200m dos(F),false,true
+15,23,100m brasse(H),true,true
+16,23,100m brasse(F),false,true
+17,23,200m brasse(H),true,true
+18,23,200m brasse(F),false,true
+19,23,100m papillon(H),true,true
+20,23,100m papillon(F),false,true
+21,23,200m papillon(H),true,true
+22,23,200m papillon(F),false,true
+23,23,200m 4 nages(H),true,true
+24,23,200m 4 nages(F),false,true
+25,23,400m 4 nages(H),true,true
+26,23,400m 4 nages(F),false,true
+27,23,Relais 4*50m nage libre(H),true,false
+28,23,Relais 4*100m nage libre(H),true,false
+29,23,Relais 4*100m nage libre(F),false,false
+30,23,Relais 4*200m nage libre(H),true,false
+31,23,Relais 4*200m nage libre(F),false,false
+32,23,Relais 4*100m 4 nages(H),true,false
+33,23,Relais 4*100m 4 nages(F),false,false
+34,23,Water-polo(H),true,false
+35,23,100m natation pour marins(H),true,true
+36,23,2000m course d'equipe de cinq(H),true,false
+37,23,200m course d'obstactes(H),true,true
+38,23,4000m libre(H),true,true
+39,23,Nage sous l'eau(H),true,true
+40,23,400m brasse(H),true,true
+41,23,800yards nage libre(H),true,true
+42,24,10km(H),true,true
+43,24,10km(F),false,true
+44,24,Duo(F),false,false
+45,24,Ballet(F),false,false
+46,24,Solo(F),false,false
+47,38,Volley (Hommes),true,false
+48,38,Volley (Femmes),false,false
+49,1,60m(H),true,true
+50,1,100m(H),true,true
+51,1,100m(F),false,true
+52,1,200m(H),true,true
+53,1,200m(F),false,true
+54,1,400m(H),true,true
+55,1,400m(F),false,true
+56,1,800m(H),true,true
+57,1,800m(F),false,true
+58,1,1500m(H),true,true
+59,1,1500m(F),false,true
+60,1,3000m(F),false,true
+61,1,5000m(H),true,true
+62,1,5000m(F),false,true
+63,1,10000m(H),true,true
+64,1,10000m(F),false,true
+65,1,Marathon(H),true,true
+66,1,Marathon(F),false,true
+67,1,100m haies(F),false,true
+68,1,100m haies(H),true,true
+69,1,400m haies(H),true,true
+70,1,400m haies(F),false,true
+71,1,3000m steeple (H),true,true
+72,1,3000m steeple (F),false,true
+73,1,Hauteur(H),true,true
+74,1,Hauteur(F),false,true
+75,1,Longueur(H),true,true
+76,1,Longueur(F),false,true
+78,1,Perche(H),true,true
+79,1,Perche(F),false,true
+80,1,Triple saut(H),true,true
+81,1,Triple saut(F),false,true
+82,1,Poids(H),true,true
+83,1,Poids(F),false,true
+84,1,Disque(H),true,true
+85,1,Disque(F),false,true
+86,1,Marteau(H),true,true
+87,1,Marteau(F),false,true
+88,1,Javelot(H),true,true
+89,1,Javelot(F),false,true
+90,1,Hetathlon(F),false,true
+91,1,Decathlon(H),true,true
+92,1,10km Marche(F),false,true
+93,1,20km Marche(H),true,true
+94,1,20km Marche(F),false,true
+95,1,50km Marche(H),true,true
+96,1,3km Marche(H),true,true
+97,1,4*100m(H),true,false
+98,1,4*100m(F),false,false
+99,1,4*400m(H),true,false
+100,1,4*400m(F),false,false
+101,18,Hommes,true,false
+102,18,Femmes,false,false
+103,2,Deux de couple(F),false,false
+104,2,Deux de couple(H),true,false
+105,2,Skiff(F),false,true
+106,2,Skiff(H),true,true
+107,3,BMX(F),false,true
+108,3,BMX(H),true,true
+109,4,Double(F),false,false
+110,4,Double(H),true,false
+111,4,Simple(F),false,true
+112,4,Simple(H),true,true
+113,5,Hommes,true,false
+114,5,Femmes,false,false
+115,6,Hommes,true,false
+116,6,Femmes,false,false
+117,7,-49kg(F),false,true
+118,7,-49kg(H),true,true
+119,8,500m kayak biplace(H),true,false
+120,8,500m kayak biplace(F),false,false
+121,8,4*500m kayak-Relais(H),true,false
+122,9,Vitesse individuelle(H),true,true
+123,9,Vitesse individuelle(F),false,true
+124,9,Vitesse par equipes(H),true,false
+125,9,Vitesse par equipes(F),false,false
+126,10,Route(H),true,true
+127,10,Route(F),false,true
+128,10,Couse sur route par equipes(H),true,false
+129,11,saut d'obstacles individuel,true,true
+130,11,saut d'obstacles par equipes,true,false
+131,12,epee(H),true,true
+132,12,epee(F),false,true
+133,12,epee par equipes(H),true,false
+134,12,epee par equipes (F),false,false
+135,13,Hommes,true,false
+136,13,Femmes,false,false
+137,14,individuel(H),true,true
+138,14,individuel(F),false,true
+139,15,coucours general (H),true,true
+140,15,courcours general (F),false,true
+141,15,courcours general par equipes(H),true,false
+142,15,coucours general par equipes(F),false,false
+143,16,concours individuel,true,true
+144,16,concours par ensemble,true,false
+145,17,+105kg(H),true,true
+146,17,+75kg(F),false,true
+147,19,Hommes,true,false
+148,19,Femmes,false,false
+149,20,-81kg (H),true,true
+150,20,-70kg(F),false,true
+151,21,-75kg,true,true
+152,22,+100kg(H),true,true
+153,22,-48kg(F),false,true
+154,24,5km(H),true,true
+155,24,5km(F),false,true
+156,25,Duo(F),false,false
+157,26,individuel(H),true,true
+158,26,individuel(F),false,true
+159,26,par equipes(H),true,false
+160,27,Plongeon 10m(H),true,true
+161,27,Plongeon 10m(F),false,true
+162,28,Hommes,true,false
+163,28,Femmes,false,false
+164,29,-49kg(F),false,true
+165,29,-58Kg(H),true,true
+166,30,Simples(H),true,true
+167,30,Simples(F),false,true
+168,30,double(H),true,false
+169,30,double (F),false,false
+170,31,simples (H),true,true
+171,31,simples (F),false,true
+172,31,par equipes hommes,true,false
+173,31,par equipes femmes,false,false
+174,32,carabine 10m (H),true,true
+175,32,carabine 10m(F),false,true
+176,33,individuel (H),true,true
+177,33,individuel (F),false,true
+178,34,Trampoline (H),true,true
+179,34,Trampoline (F),false,true
+180,35,Hommes,true,false
+181,35,Femmes,false,false
+182,36,Cross-country(H),true,true
+183,36,Cross-country(F),false,true
+184,37,470(H),true,true
+185,37,470(F),false,true
+186,38,Wallyball(H),false,false
+187,38,Wallyball(F),true,false
